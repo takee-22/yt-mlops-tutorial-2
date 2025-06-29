@@ -1,0 +1,11 @@
+1. class and object(example)
+2. Class has data/attribute and func/method
+    code walkthrough
+    attributes get called itself, methods are called manually
+3.why python is called oop?
+    everything in Python is an object 
+
+4.YOU CAN CREATE YOUR OWN DATA TYPE
+(a+b)
+
+
